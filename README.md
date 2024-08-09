@@ -6,7 +6,7 @@
 
 ## 部署方式
 
-- **Workers** 部署：复制 [_worker.js](https://github.com/codebhc/CF-Workers-docker/blob/main/_worker.js) 代码，替换自动生成的代码，并把第8行代码workers_url 等号后面改为你的域名，`保存并部署`即可
+- **Workers** 部署：复制 [_worker.js](https://github.com/codebhc/CF-Workers-Docker/blob/main/_worker.js) 代码，替换自动生成的代码，并把第8行代码workers_url 等号后面改为你的域名，`保存并部署`即可
 - **Pages** 部署：`Fork` 后 `连接GitHub` 一键部署即可
 
 ## 如何使用？ [视频教程](https://www.youtube.com/watch?v=l2jwq9CagNQ)
